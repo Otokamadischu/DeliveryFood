@@ -50,3 +50,12 @@ Route assignment algorihtm takes into account:
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/49680011/115953746-7c077500-a4ed-11eb-8446-41b9953ba896.png" width="280" height="500"/>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49680011/115953982-bb829100-a4ee-11eb-81fc-8252af57e212.png" width="280" height="500"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49680011/115953983-bc1b2780-a4ee-11eb-9023-4165448b8877.png" width="280" height="500"/> 
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49680011/115953986-bc1b2780-a4ee-11eb-858f-98794a666d7d.png" width="280" height="500"/>
+</p>
+
