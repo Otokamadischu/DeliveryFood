@@ -59,3 +59,12 @@ Route assignment algorihtm takes into account:
   <img src="https://user-images.githubusercontent.com/49680011/115953986-bc1b2780-a4ee-11eb-858f-98794a666d7d.png" width="280" height="500"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49680011/115956659-664e7b80-a4fe-11eb-8be3-7430e778e3f5.jpg" width="280" height="500"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49680011/115956660-66e71200-a4fe-11eb-9eb6-30768a62bc19.jpg" width="280" height="500"/> 
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/49680011/115956661-66e71200-a4fe-11eb-92a7-f87e332bdc44.png" width="280" height="500"/>
+</p>
+
+
