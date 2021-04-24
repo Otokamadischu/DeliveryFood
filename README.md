@@ -43,7 +43,7 @@ Route assignment algorihtm takes into account:
 
 ## Images
 
-<p float="left">
+<p float="center">
   <img src="https://user-images.githubusercontent.com/49680011/115953743-7b6ede80-a4ed-11eb-9fb9-34e1ccfd4e6c.png" width="280" height="500"/>
   <img src="https://user-images.githubusercontent.com/49680011/115953745-7c077500-a4ed-11eb-9d9e-a15985d2adca.png" width="280" height="500"/> 
   <img src="https://user-images.githubusercontent.com/49680011/115953746-7c077500-a4ed-11eb-8446-41b9953ba896.png" width="280" height="500"/>
